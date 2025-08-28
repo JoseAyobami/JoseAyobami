@@ -3,8 +3,7 @@
 🎯 **Backend Engineer | Python & FastAPI Enthusiast | Aspiring AI Engineer**
 
 I’m passionate about building clean, modular, and scalable backend systems.  
-Currently exploring **FastAPI**, **PostgreSQL**, **WebSockets**, and **AI engineering**.  
-I also have experience in **data collection, visualization, and GIS-based reporting**.
+I'm currently undergoing software engineering training at  **AltSchool Africa** learning **backend engineering**.
 
 ---
 
