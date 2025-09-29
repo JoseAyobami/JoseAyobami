@@ -21,8 +21,7 @@ I'm currently undergoing software engineering training at  **AltSchool Africa** 
 
 ## 📌 Featured Projects
 
-### 1. [Book Management API]
-(https://github.com/JoseAyobami/event-track)
+### 1. [Book Management API](https://github.com/JoseAyobami/book)
 
 A production-ready REST API for a simple bookings platform called BookIt.
 
