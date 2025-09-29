@@ -1,6 +1,6 @@
 # Hi there, I'm Joseph 👋
 
-🎯 **Backend Engineer | Python & FastAPI Enthusiast | Aspiring AI Engineer**
+🎯 **Backend Engineer | Python & FastAPI Enthusiast | Aspiring cloud Engineer**
 
 I’m passionate about building clean, modular, and scalable backend systems.  
 I'm currently undergoing software engineering training at  **AltSchool Africa** learning **backend engineering**.
