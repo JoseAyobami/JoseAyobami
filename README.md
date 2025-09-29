@@ -21,14 +21,14 @@ I'm currently undergoing software engineering training at  **AltSchool Africa** 
 
 ## 📌 Featured Projects
 
-### 1. [Monad MCP Server API](https://github.com/JoseAyobami/monad-mcp-tutorial)  
-FastAPI backend for interacting with smart contracts on the Monad testnet, featuring deployment scripts and contract integration.
+### 1. [Book Management API]
+(https://github.com/JoseAyobami/event-track)
+
+A production-ready REST API for a simple bookings platform called BookIt.
 
 ### 2. [Event Management System](https://github.com/JoseAyobami/event-track)  
 In-memory FastAPI backend for event registration, attendance tracking, and reporting.
 
-### 3. [AI-Powered Background Remover](https://github.com/JoseAyobami/ai-powered-background-remover)  
-AI-powered API for removing backgrounds from images using machine learning.
 
 ---
 
