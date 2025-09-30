@@ -26,6 +26,8 @@ A production-ready REST API for a simple bookings platform called BookIt.
 
 ### 2. [Simple Socail Media API](https://github.com/JoseAyobami/grp-1-ass)
 
+This is a simple social media API built with Python and FastAPI. It allows users to create accounts, create posts, and like posts.
+
 
 ### 3. [Event Management System](https://github.com/JoseAyobami/event-track)  
 In-memory FastAPI backend for event registration, attendance tracking, and reporting.
