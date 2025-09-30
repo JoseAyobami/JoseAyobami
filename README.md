@@ -35,16 +35,6 @@ In-memory FastAPI backend for event registration, attendance tracking, and repor
 
 ---
 
-## 🌐 Portfolio Site  
-🚀 **[Visit My GitHub Pages Portfolio](https://joseayobami.github.io/)**  
-
----
-
-## 📊 GitHub Stats
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAyobami&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAyobami&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseAyobami)
