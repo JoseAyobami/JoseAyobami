@@ -18,13 +18,13 @@ I'm currently undergoing software engineering training at  **AltSchool Africa** 
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects I Developed With What I learnt 
 
 ### 1. [Book Management API](https://github.com/JoseAyobami/book)
 
 A production-ready REST API for a simple bookings platform called BookIt.
 
-### 2. [Simple Socail Media API](https://github.com/JoseAyobami/grp-1-ass)
+### 2. [Simple Social Media API](https://github.com/JoseAyobami/grp-1-ass)
 
 This is a simple social media API built with Python and FastAPI. It allows users to create accounts, create posts, and like posts.
 
