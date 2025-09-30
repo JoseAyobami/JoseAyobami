@@ -24,7 +24,10 @@ I'm currently undergoing software engineering training at  **AltSchool Africa** 
 
 A production-ready REST API for a simple bookings platform called BookIt.
 
-### 2. [Event Management System](https://github.com/JoseAyobami/event-track)  
+### 2. [Simple Socail Media API](https://github.com/JoseAyobami/grp-1-ass)
+
+
+### 3. [Event Management System](https://github.com/JoseAyobami/event-track)  
 In-memory FastAPI backend for event registration, attendance tracking, and reporting.
 
 
