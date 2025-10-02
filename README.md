@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph 👋
+# Hi there, I'm Joseph 
 
 **Backend Engineer | Python & FastAPI Enthusiast | Aspiring cloud Engineer**
 
@@ -36,13 +36,13 @@ In-memory FastAPI backend for event registration, attendance tracking, and repor
 ---
 
 
-## 📫 Connect With Me
+##  Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoseAyobami)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephayeni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayenijoseph45@gmail.com)
 
 ---
 
-⭐ _"Clean code is not just about how it looks, but how it works."_  
+ _"Clean code is not just about how it looks, but how it works."_  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoseAyobami&color=blue)
