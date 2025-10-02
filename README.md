@@ -1,13 +1,13 @@
 # Hi there, I'm Joseph 👋
 
-🎯 **Backend Engineer | Python & FastAPI Enthusiast | Aspiring cloud Engineer**
+**Backend Engineer | Python & FastAPI Enthusiast | Aspiring cloud Engineer**
 
 I’m passionate about building clean, modular, and scalable backend systems.  
-I'm currently undergoing software engineering training at  **AltSchool Africa** learning **backend engineering**.
+.
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ I'm currently undergoing software engineering training at  **AltSchool Africa** 
 
 ---
 
-## 📌 Projects I Developed With What I learnt 
+## Projects I Developed With What I learnt 
 
 ### 1. [Book Management API](https://github.com/JoseAyobami/book)
 
