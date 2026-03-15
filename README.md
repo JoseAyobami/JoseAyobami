@@ -1,6 +1,6 @@
 # Hi there, I'm Joseph 
 
-**Backend Engineer | Python & FastAPI Enthusiast | Aspiring cloud Engineer**
+**I am a Python Developer, i write clean code weather it's building backend development for websites or writing a clean for data wrangling before analysis. I'm also proficient using SQL to analyze data to generate insight for decisions making**
 
 I’m passionate about building clean, modular, and scalable backend systems.  
 .
@@ -20,8 +20,8 @@ I’m passionate about building clean, modular, and scalable backend systems.
 
 ## Projects I Developed
 
-### 1. [Data Wrangling and Sql Project]
-(https://github.com/JoseAyobami/data)
+### 1. [Data Wrangling Project](https://github.com/JoseAyobami/data)
+
 This is data wrangling project where i used pandas to clean, structure, and transform raw, complex csv data into a usable format for analysis.
 
 ### 2. [Book Management API](https://github.com/JoseAyobami/book)
