@@ -1,9 +1,8 @@
 # Hi there, I'm Joseph 
 
-**I am a Python Developer, i write clean code weather it's building backend development for websites or writing a clean for data wrangling before analysis. I'm also proficient using SQL to analyze data to generate insight for decisions making**
+I am a Python developer who focuses on writing clean, maintainable code across different domains. I build backend systems for web applications and develop data pipelines for wrangling and preparing datasets before analysis. I am also proficient in SQL, using it to query and analyze data in order to generate insights that support informed decision-making.
 
-I’m passionate about building clean, modular, and scalable backend systems.  
-.
+I am passionate about building clean, modular, and scalable backend systems, and I enjoy working on projects that combine software engineering with data processing.
 
 ---
 
@@ -22,18 +21,22 @@ I’m passionate about building clean, modular, and scalable backend systems.
 
 ### 1. [Data Wrangling Project](https://github.com/JoseAyobami/data)
 
-This is data wrangling project where i used pandas to clean, structure, and transform raw, complex csv data into a usable format for analysis.
+A data wrangling project focused on cleaning, structuring, and transforming raw and complex datasets into a format suitable for analysis. Using Python and pandas, the workflow includes handling missing values, correcting data types, removing duplicates, and organizing data for downstream use. The project also demonstrates working with large datasets.
 
-### 2. [Book Management API](https://github.com/JoseAyobami/book)
+### 2. [Data Pipeline](https://github.com/JoseAyobami/data-talk-homework)
+
+This project demonstrates a simple data ingestion and wrangling pipeline for large Parquet datasets. Using PyArrow, the dataset is processed in batches to avoid loading the entire file into memory. Each batch is converted into a pandas DataFrame and appended to a PostgreSQL database using SQLAlchemy. The workflow includes downloading the dataset, iterating through it efficiently, inserting the data into the database, and validating the load by querying sample records and row counts. The goal of the project is to demonstrate practical skills in data wrangling, handling large datasets, working with Parquet files, and integrating Python data tools with relational databases.
+
+### 3. [Book Management API](https://github.com/JoseAyobami/book)
 
 A production-ready REST API for a simple bookings platform called BookIt.
 
-### 3. [Simple Social Media API](https://github.com/JoseAyobami/grp-1-ass)
+### 4. [Simple Social Media API](https://github.com/JoseAyobami/grp-1-ass)
 
 This is a simple social media API built with Python and FastAPI. It allows users to create accounts, create posts, and like posts.
 
 
-### 4. [Event Management System](https://github.com/JoseAyobami/event-track)  
+### 5. [Event Management System](https://github.com/JoseAyobami/event-track)  
 In-memory FastAPI backend for event registration, attendance tracking, and reporting.
 
 
