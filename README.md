@@ -18,18 +18,22 @@ I’m passionate about building clean, modular, and scalable backend systems.
 
 ---
 
-## Projects I Developed With What I learnt 
+## Projects I Developed
 
-### 1. [Book Management API](https://github.com/JoseAyobami/book)
+### 1. [Data Wrangling and Sql Project]
+(https://github.com/JoseAyobami/data)
+This is data wrangling project where i used pandas to clean, structure, and transform raw, complex csv data into a usable format for analysis.
+
+### 2. [Book Management API](https://github.com/JoseAyobami/book)
 
 A production-ready REST API for a simple bookings platform called BookIt.
 
-### 2. [Simple Social Media API](https://github.com/JoseAyobami/grp-1-ass)
+### 3. [Simple Social Media API](https://github.com/JoseAyobami/grp-1-ass)
 
 This is a simple social media API built with Python and FastAPI. It allows users to create accounts, create posts, and like posts.
 
 
-### 3. [Event Management System](https://github.com/JoseAyobami/event-track)  
+### 4. [Event Management System](https://github.com/JoseAyobami/event-track)  
 In-memory FastAPI backend for event registration, attendance tracking, and reporting.
 
 
